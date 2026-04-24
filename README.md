@@ -1,8 +1,8 @@
 # Hi, I'm Talay Kamali
 
-**Data Analyst** with 4+ years of experience in SQL, Python, Snowflake, Databricks, and BI tools (Tableau, Power BI).
+**Data Analyst** with 4+ years of experience in SQL · Python · Snowflake · Databricks · Tableau · Power BI · Excel · AWS · Azure.
 
-I'm currently on an active job search and building out this portfolio to showcase end-to-end analytics work — from data ingestion to dashboards and ML models.
+I'm currently on an active job search and building out this portfolio to showcase end-to-end analytics work — from data ingestion to analysis, dashboards, and ML models.
 
 ---
 
@@ -29,5 +29,5 @@ I'm currently on an active job search and building out this portfolio to showcas
 ---
 
 **Open to:** Senior Data Analyst · Analytics Engineer · Data Scientist roles  
-**Location:** Atlanta, GA — open to remote or East Coast hybrid  
+**Location:** Atlanta, GA — onsite & hybrid in Metro Atlanta · East Coast hybrid · fully remote  
 📧 talayapps@gmail.com · [LinkedIn](https://linkedin.com/in/talaykamali)
