@@ -1,6 +1,6 @@
 # Hi, I'm Talay Kamali
 
-**Data Analyst** with 4+ years of experience in SQL · Python · Snowflake · Databricks · Tableau · Power BI · Excel · AWS · Azure.
+**Data Analyst** with 5 years of experience in SQL · Python · Snowflake · Databricks · Tableau · Power BI · Excel · AWS · Azure.
 
 I'm currently on an active job search and building out this portfolio to showcase end-to-end analytics work — from data ingestion to analysis, dashboards, and ML models.
 
