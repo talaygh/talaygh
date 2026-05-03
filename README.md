@@ -22,7 +22,7 @@ I'm currently on an active job search and building out this portfolio to showcas
 | Project | Stack | Description |
 |---|---|---|
 | [LendingClub-Loan-Default-Risk](https://github.com/talaygh/LendingClub-Loan-Default-Risk) | Python · Scikit-learn · XGBoost · SHAP · Tableau · Power BI | Credit risk model on 2.26M Lending Club loans (AUC 0.73) with 5-page interactive dashboards in both Tableau and Power BI |
-| [Delivery-Duration-Prediction](https://github.com/talaygh/Delivery-Duration-Prediction) | Python · Scikit-learn · XGBoost · LightGBM · TensorFlow | ML pipeline to predict food delivery durations |
+| [Doordash-Delivery-Duration-Prediction](https://github.com/talaygh/DoorDash-Delivery-Duration-Prediction) | Python · Scikit-learn · XGBoost · LightGBM · TensorFlow | ML pipeline to predict food delivery durations |
 | [Improvado-Ad-Performance-Analysis](https://github.com/talaygh/Improvado-Ad-Performance-Analysis) | Snowflake · SQL · Tableau | Multi-platform ad performance analytics |
 | [Crunchyroll-Content-Portfolio-Analysis](https://github.com/talaygh/Crunchyroll-Content-Portolio-Analysis) | Snowflake · SQL · Tableau · Snowflake Cortex AI | End-to-end content analytics with AI sentiment analysis |
 | [Gett-Failed-Orders-Analysis](https://github.com/talaygh/Gett-Failed-Orders-Analysis) | Python · Pandas | Exploratory analysis of failed ride-hail orders |
