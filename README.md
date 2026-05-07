@@ -25,7 +25,7 @@ I'm currently on an active job search and building out this portfolio to showcas
 | [LendingClub-Credit-Risk-Analytics](https://github.com/talaygh/LendingClub-Credit-Risk-Analytics) | Python · Scikit-learn · XGBoost · SHAP · Tableau · Power BI | Credit risk model on 2.26M LendingClub loans (AUC 0.73) with 5-page interactive dashboards in both Tableau and Power BI |
 | [Doordash-Delivery-Duration-Prediction](https://github.com/talaygh/DoorDash-Delivery-Duration-Prediction) | Python · Scikit-learn · XGBoost · LightGBM · TensorFlow | ML pipeline to predict food delivery durations |
 | [Improvado-Ad-Performance-Analysis](https://github.com/talaygh/Improvado-Ad-Performance-Analysis) | Snowflake · SQL · Tableau | Multi-platform ad performance analytics |
-| [Crunchyroll-Content-Portfolio-Analysis](https://github.com/talaygh/Crunchyroll-Content-Portolio-Analysis) | Snowflake · SQL · Tableau · Snowflake Cortex AI | End-to-end content analytics with AI sentiment analysis |
+| [Crunchyroll-Content-Portfolio-Analysis](https://github.com/talaygh/Crunchyroll-Content-Portolio-Analysis) | Snowflake · SQL · Tableau · Snowflake Cortex AI | Multi-layer project covering SQL-based data modeling in Snowflake, Cortex AI sentiment analysis, and content performance visualization in Tableau | Snowflake · SQL · Tableau · Snowflake Cortex AI |
 | [Gett-Failed-Orders-Analysis](https://github.com/talaygh/Gett-Failed-Orders-Analysis) | Python · Pandas | Exploratory analysis of failed ride-hail orders |
 
 ---
