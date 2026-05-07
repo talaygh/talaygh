@@ -26,7 +26,7 @@ I'm currently on an active job search and building out this portfolio to showcas
 | [Doordash-Delivery-Duration-Prediction](https://github.com/talaygh/DoorDash-Delivery-Duration-Prediction) | Python · Scikit-learn · XGBoost · LightGBM · TensorFlow | ML pipeline to predict food delivery durations |
 | [Improvado-Ad-Performance-Analysis](https://github.com/talaygh/Improvado-Ad-Performance-Analysis) | Snowflake · SQL · Tableau | Multi-platform ad performance analytics |
 | [Crunchyroll-Content-Portfolio-Analysis](https://github.com/talaygh/Crunchyroll-Content-Portolio-Analysis) | Snowflake · SQL · Tableau · Snowflake Cortex AI | Multi-layer project covering SQL-based data modeling in Snowflake, Cortex AI sentiment analysis, and content performance visualization in Tableau | Snowflake · SQL · Tableau · Snowflake Cortex AI |
-| [Gett-Failed-Orders-Analysis](https://github.com/talaygh/Gett-Failed-Orders-Analysis) | Python · Pandas | Exploratory analysis of failed ride-hail orders |
+| [Gett-Failed-Orders-Analysis](https://github.com/talaygh/Gett-Failed-Orders-Analysis) | Python · Pandas | Exploratory data analysis investigating matching metrics for orders that did not complete successfully on the Gett ride-hailing platform. The analysis covers failure reasons, hourly trends, cancellation timing, ETA distribution, and geospatial patterns using hexagonal binning. |
 
 ---
 
