@@ -12,7 +12,7 @@ I'm currently on an active job search and building out this portfolio to showcas
 **Cloud & Warehouses:** AWS · Azure · Snowflake · Databricks  
 **BI & Visualization:** Tableau · Power BI · Matplotlib · Seaborn  
 **ML & Analytics:** Scikit-learn · XGBoost · LightGBM · TensorFlow  
-**Databases:** PostgreSQL · MySQL · MS SQL Server  
+**Databases:** PostgreSQL · MySQL · MS SQL Server · NoSQL  
 **Tools:** Git · Jira · dbt · Agile/Scrum  
 
 ---
