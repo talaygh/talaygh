@@ -13,7 +13,7 @@ I'm currently on an active job search and building out this portfolio to showcas
 **BI & Visualization:** Tableau · Power BI · Matplotlib · Seaborn  
 **ML & Analytics:** Scikit-learn · XGBoost · LightGBM · TensorFlow  
 **Databases:** PostgreSQL · MySQL · MS SQL Server · NoSQL  
-**Tools:** Git · Jira · dbt · Agile/Scrum  
+**Tools:** Git · Jira · dbt 
 
 ---
 
